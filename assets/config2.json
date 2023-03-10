@@ -1,0 +1,641 @@
+{
+    _world: [
+        {
+            class: elements.Mario
+            _y: 0
+            _y: 50
+            _h: 50
+            _w: 50
+            _speed: 20
+        }
+        {
+            class: elements.Platform
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 50
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 100
+            _h: 50
+            _w: 50  
+        }
+        {
+            class: elements.Ladder
+            _x: 100
+            _y: 50
+            _h: 50
+            _w: 50  
+        }
+        {
+            class: elements.Ladder
+            _x: 100
+            _y: 100
+            _h: 50
+            _w: 50 
+        }
+        {
+            class: elements.Ladder
+            _x: 100
+            _y: 150
+            _h: 50
+            _w: 50 
+        }
+        {
+            class: elements.Ladder
+            _x: 100
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 200
+            _h: 50
+            _w: 50   
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 150
+            _h: 50
+            _w: 50  
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 100
+            _h: 50
+            _w: 50 
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 50
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 50
+            _h: 50
+            _w: 50 
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 100
+            _h: 50
+            _w: 50  
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 150
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 200
+            _h: 50
+            _w: 50 
+        }
+        {
+            class: elements.Ladder
+            _x: 500
+            _y: 50
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 500
+            _y: 100
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 500
+            _y: 150
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 500
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 300
+            _y: 250
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 300
+            _y: 300
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 300
+            _y: 350
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 300
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 450
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 500
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 550
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 250
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 450
+            _h: 50
+            _w: 50   
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 500
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 550
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 350
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 50
+            _y: 450
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 50
+            _y: 500
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 50
+            _y: 550
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 50
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 550
+            _y: 450
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 550
+            _y: 500
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 550
+            _y: 550
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 550
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 150
+            _y: 650
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 150
+            _y: 700
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 150
+            _y: 750
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 150
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 450
+            _y: 650
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 450
+            _y: 700
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 450
+            _y: 750
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Ladder
+            _x: 450
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+    
+        {
+            class: elements.DonkeyKong
+            _x: 300
+            _y: 850
+            _h: 100
+            _w: 100
+            _speed:5
+            _delta:50
+        }
+        {
+            class: elements.Platform
+            _x: 150
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 250
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 300
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 350
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 450
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 500
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 550
+            _h: 50
+            _w: 50
+        }
+        {
+            class:elements.Platform
+            _x: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 550
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 450
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 400
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 300
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 200
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 150
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 50
+            _y: 200
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 50
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 100
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 150
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 250
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 350
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 450
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 500
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 550
+            _y: 400
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 0
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 100
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 150
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 200
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+    
+        {
+            class: elements.Platform
+            _x: 300
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 400
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 450
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 500
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+    
+        {
+            class: elements.Platform
+            _x: 600
+            _y: 600
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 50
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 100
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        
+        {
+            class: elements.Platform
+            _x: 200
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 250
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 300
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 350
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 400
+            _y: 800
+            _h: 50
+            _w: 50
+        }
+        {
+            class: elements.Platform
+            _x: 500
+            _y: 800
+            _h: 50
+            _w: 50  
+        }
+        {
+            class: elements.Platform
+            _x: 550
+            _y: 800
+            _h: 50
+            _w: 50
+        }  
+    ]
+}

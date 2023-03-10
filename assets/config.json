@@ -1,0 +1,25 @@
+{
+    "_world": [
+        {"class": "elements.DonkeyKong", "_x": 700, "_y": 850, "_h": 100, "_w": 100, "_speed":1, "_delta":3},
+        {"class": "elements.Mario", "_x": 50, "_y": 50, "_h": 50, "_w": 50, "_speed": 5},
+        {"class": "elements.Platform", "_x": 0, "_y": 0, "_h": 50, "_w": 1500, "_type": 2},
+        {"class": "elements.Platform", "_x": 150, "_y": 200, "_h": 50, "_w": 1200, "_type": 2},
+        {"class": "elements.Platform", "_x": 50, "_y": 400, "_h": 50, "_w": 250, "_type": 2},
+        {"class": "elements.Platform", "_x": 450, "_y": 400, "_h": 50, "_w": 600, "_type": 2},
+        {"class": "elements.Platform", "_x": 1200, "_y": 400, "_h": 50, "_w": 250, "_type": 2},
+        {"class": "elements.Platform", "_x": 0, "_y": 600,"_h": 50, "_w": 1500, "_type": 2},
+        {"class": "elements.Platform", "_x": 150, "_y": 800, "_h": 50, "_w": 1200, "_type": 2},
+        {"class": "elements.Ladder", "_x": 200, "_y": 50, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 550, "_y": 50, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 900, "_y": 50, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 1250, "_y": 50, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 450, "_y": 250,"_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 1050, "_y": 250, "_h": 200,"_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 150, "_y": 450, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 650, "_y": 450, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 850, "_y": 450, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 1300, "_y": 450, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 100, "_y": 650, "_h": 200, "_w": 50, "_type": 2},
+        {"class": "elements.Ladder", "_x": 1350, "_y": 650, "_h": 200, "_w": 50, "_type": 2}
+    ]
+}
